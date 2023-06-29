@@ -10,6 +10,10 @@ The BPS Circular API is an unofficial API made to provide access to [Birla Publi
 
 The actual API can be found here.
 
+### Python Package
+
+An additional Python Package has been created which provides direct interface to the API and has a built in circular checking system.
+
 ### Discord Bot
 
 A Discord Bot has been made which is a wrapper of the API. Made with py-cord and is maintained.
