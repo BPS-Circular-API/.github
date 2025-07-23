@@ -1,6 +1,6 @@
 # BPS Circular API
 
-This GitHub organization contains 5 repostories. The main repo is the API itself, the others are interfaces developed to use it. 
+This GitHub organization contains 7 repostories. The main repo is the API itself, the others are interfaces developed to use it. 
 
 The BPS Circular API is an unofficial API made to provide access to [Birla Public School's](https://www.bpsdoha.net) circular through an API.
 
@@ -8,15 +8,15 @@ The BPS Circular API is an unofficial API made to provide access to [Birla Publi
 
 ### API
 
-The actual API can be found here.
+The actual API that gets circulars off Birla's website
 
 ### Python Package
 
-An additional Python Package has been created which provides direct interface to the API and has a built in circular checking system.
+A Python package providing access to the API via predefined methods. Also includes a circular checking system to find new circulars. 
 
 ### Discord Bot
 
-A Discord Bot has been made which is a wrapper of the API. Made with py-cord and is maintained.
+A Discord Bot made with py-cord that can do everything that the API does.
 
 ### Telegram Bot
 
@@ -28,7 +28,9 @@ The page at https://bpsapi.rajtech.me/docs. It contains documentation for everyt
 
 ## Credits
 
-Contributor and current Maintiner - [@Rajdave69](https://github.com/Rajdave69)
+Founder and lead maintainer - [@Rajdave69](https://github.com/Rajdave69)
+
+Active Maintainers - [@Rajdave69](https://github.com/Rajdave69) [@jThweb](https://github.com/jthweb)
 
 Contributors - [@Ninjago77](https://github.com/Ninjago77) [@MuhdRayan10](https://github.com/MuhdRayan10) [@nivedvenugopalan](https://github.com/nivedvenugopalan)  
 
