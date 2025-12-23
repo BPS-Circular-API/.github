@@ -30,8 +30,8 @@ The page at https://bpsapi.rajtech.me/docs. It contains documentation for everyt
 
 Founder and lead maintainer - [@Rajdave69](https://github.com/Rajdave69)
 
-Active Maintainers - [@Rajdave69](https://github.com/Rajdave69) [@jThweb](https://github.com/jthweb)
+Active Maintainers - [@Rajdave69](https://github.com/Rajdave69) [@JThweb](https://github.com/jthweb)
 
-Contributors - [@Ninjago77](https://github.com/Ninjago77) [@MuhdRayan10](https://github.com/MuhdRayan10) [@nivedvenugopalan](https://github.com/nivedvenugopalan) [@sunjaysuresh5](https://github.com/sanjaysuresh5) [@jthweb](https://github.com/jthweb)
+Contributors - [@Ninjago77](https://github.com/Ninjago77) [@MuhdRayan10](https://github.com/MuhdRayan10) [@nivedvenugopalan](https://github.com/nivedvenugopalan) [@sunjaysuresh5](https://github.com/sanjaysuresh5) [@JThweb](https://github.com/jthweb)
 
 Logo - [@nivedvenugopalan](https://github.com/nivedvenugopalan) 
